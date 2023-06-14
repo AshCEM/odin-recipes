@@ -1,5 +1,5 @@
 # odin-recipes
 My Odin recipe list.
-This is a project derived from The Odin Project. Here I'm making a recipe list of what ever comes to mind, in this case it's pancakes. It's something I like to make on rare occasions and want to present the recipe to those interested!
+This is a project derived from The Odin Project. Here I'm making a recipe list of what ever comes to mind, in this case it's pancakes, hash browns, and sausage breakfast casserole.
 
-Ever wanted homemade fluffy pancakes made from scratch at home? Now here's your chance to make this fun little recipe from Preppy Kitchen!
+Ever wanted homemade fluffy pancakes made from scratch at home? Maybe some hash browns on the side. Oh, how about a breakfast casserole. Now here's your chance to make these fun recipes from Preppy Kitchen!
