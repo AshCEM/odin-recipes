@@ -6,5 +6,8 @@ Ever wanted homemade fluffy pancakes made from scratch at home? Maybe some hash 
 
 Credit goes to:
 1. Preppy Kitchen
-2. Emily, your mom
+2. your mom
 3. bmatheson
+
+Thoughts:
+The process was long but worth it. I understand now how to add files into the index.html file from separate folders. I made sure to commit every step. Well not every step... None the less everything is in order as it should be.
