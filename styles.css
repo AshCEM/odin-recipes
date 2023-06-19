@@ -17,12 +17,13 @@ div.card {
 }
 
 #parag {
-  border: 3px solid rgb(248, 222, 191);
+  background-color: rgb(255, 252, 247);
   border-top: 2px solid rgb(162, 152, 120);
   border-bottom: 2px solid rgb(162, 152, 120);
 }
 
 #bulletPoints {
+  background-color: rgb(255, 252, 247);
   font-size: medium;
   font-weight: bold;
   border-top: 2px solid rgb(162, 152, 120);
