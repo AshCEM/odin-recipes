@@ -10,6 +10,7 @@ div.card {
   border: 5px solid rgb(162, 152, 120);
   text-align: center;
   margin: 50px;
+  padding: 20px
   
 }
 
@@ -27,6 +28,8 @@ div.card {
   background-color: rgb(255, 252, 247);
   border-top: 2px solid rgb(162, 152, 120);
   border-bottom: 2px solid rgb(162, 152, 120);
+  border-left: 2px solid rgb(162, 152, 120);
+  border-right: 2px solid rgb(162, 152, 120);
 }
 
 #bulletPoints {
@@ -35,6 +38,8 @@ div.card {
   font-weight: bold;
   border-top: 2px solid rgb(162, 152, 120);
   border-bottom: 2px solid rgb(162, 152, 120);
+  border-left: 2px solid rgb(162, 152, 120);
+  border-right: 2px solid rgb(162, 152, 120);
 }
 
 .ImagePancake {
