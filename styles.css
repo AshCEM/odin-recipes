@@ -9,6 +9,8 @@ div.card {
   height: 650px;
   border: 5px solid rgb(162, 152, 120);
   text-align: center;
+  margin: 50px;
+  
 }
 
 .heading {
