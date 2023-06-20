@@ -9,9 +9,9 @@ div.card {
   width: 550px;
   border: 5px solid rgb(162, 152, 120);
   text-align: center;
-  margin: 50px;
-  padding: 20px
-  
+  margin: 250px;
+  padding: 20px;
+  inline-size: 1000px;
 }
 
 .heading {
